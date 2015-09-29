@@ -1,7 +1,7 @@
 Package.describe({
   name: 'liberation:google-url-shortener',
   version: '1.0.0',
-  summary: 'Google URL Shortener API allows you to shorten URLs just as you would on goo.gl. Based on asveloper:shortner package.',
+  summary: 'Google URL Shortener API allows you to shorten URLs. Based on asveloper:shortner package.',
   git: 'dolgarev/meteor-google-url-shortener'
 });
 
