@@ -1,5 +1,5 @@
-<h1>Shorten a long URL</h1><br>
-<p>The Google URL Shortener API allows you to shorten URLs just as you would on goo.gl. Based on asveloper:shortner package.</p><br>
+<h1>Google shorten a long URL</h1><br>
+<p>The Google URL Shortener API allows you to shorten URLs just as you would on goo.gl. Based on  <a href="https://atmospherejs.com/asveloper/shortner">asveloper:shortner</a> package.</p>
 
 <p>This is a sample Meteor code that you can use to shorten the url.</p>
 
